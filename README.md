@@ -2,6 +2,10 @@
 Cybersecurity-University System of Georgia
 
 ## Course 1 - Cybersecurity and Mobility
+* Welcome to the Course!
+* Mobility Inc.
+* Cybersecurity
+* What's Next?
 
 ## Course 2 - Cybersecurity and the Internet of Things
 
