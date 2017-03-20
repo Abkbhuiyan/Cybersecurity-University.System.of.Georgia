@@ -19,6 +19,10 @@ Cybersecurity-University System of Georgia
   * [The Evolution of Information Governance at Intel](https://d3c33hcgiwev3.cloudfront.net/_96b5c6f47b75cc48e5262c3f0e8c415a_IntelCase.pdf?Expires=1490140800&Signature=dggvdlOmVHx3iG~mObGPHFc3cFcmzc6ZFK~9A4kmNesY9pGQqCXvzJrBTVl2N4jA56uF0eIDca5~FTH74ALT99IS77Z~M7MT6Fv84N9MRJuouw-1I-GdLbzTHyn-6GJmcxE~9v7j4FQwAvtZ-aMzI2ZYcjIF~2xBp5jjCMzTqZA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
  
 * What's Next?
+  * [IT Consumerization: When Gadgets Turn Into Enterprise IT Tools](https://d3c33hcgiwev3.cloudfront.net/_28da6cda66e2231771bfa60b3589cdfb_ITConsumerization.pdf?Expires=1490140800&Signature=g~8HP9KJJy88KElTmqvGpCbr2jG-il0rjWT4D3u8myFQ20DR1vlaXNiU56fm4ud8bcCFg4VBm77kIzPAkSpfNZq1M5ZEdMbNAOOJRbKXHTj6TbPDsRL4oRIZ43RuaVrnt8oLHxGU22XW2QZDrA4DswpWYQazALLDSmhpIQ6RIFQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [Securing the Mobile Frontier](https://d3c33hcgiwev3.cloudfront.net/_60160dd66f74321a8eedbf328f1a93d9_SecuringTheMobileFrontier.pdf?Expires=1490140800&Signature=G3C0lFlealtKrWGVwCrxUZjA~WXNYkFD2nrXlpq73Wgj2svhaXOH0hgw5aw6jeqBjOOTVQ1EZFIZBZUkuDxjjwb0aoABrlURLIJMeHDeAZCG5f74gBdDUD9MhSzojNAb65Th0GQyWgyvNHTWJMoLvEor7UKo0T-AHs9fA9x7nUM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [ Lessons from Microsoft Netherlands](https://d3c33hcgiwev3.cloudfront.net/_e82ee92b642a712595397d3a6647bcd9_MSNetherlandsCase.pdf?Expires=1490140800&Signature=DBo6J4zdQx6eto5nF3T7-InBx5JJYv1iHDerabs7QkasQ4W7VZsApijEom6nug3Q8FR~5ubpOJV36UzY35LrwfKCVkvAaZqC4RE5vCxPpSYgUS-ApgujwsPcJW6aemN9Dm7cy0OVpeJCUuHYGD~h1QMRsO17vIywuv0y66Otvt8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [The Future of Mobility: Scenarios for the United States in 2030](https://d3c33hcgiwev3.cloudfront.net/_be501186da84abf844a03e7dfd05e027_FutureOfMobility.pdf?Expires=1490140800&Signature=OhKhGsMCb2f2WQnftWeb-H2haCUg0iSs95txz7nr--acp6orql0~SpRJ7qaDJVYKkTxuPoSXU-X5LqSZIAQek6W6vqZFjkGEy-1GVMVTqZDP2fPB-uYsRipG6x2tcdns9o4x5sedoOVjDwLtmUTNbGRsdZ-3dMPMklfBn-8HqBM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ## Course 2 - Cybersecurity and the Internet of Things
 
