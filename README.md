@@ -25,6 +25,10 @@ Cybersecurity-University System of Georgia
   * [The Future of Mobility: Scenarios for the United States in 2030](https://d3c33hcgiwev3.cloudfront.net/_be501186da84abf844a03e7dfd05e027_FutureOfMobility.pdf?Expires=1490140800&Signature=OhKhGsMCb2f2WQnftWeb-H2haCUg0iSs95txz7nr--acp6orql0~SpRJ7qaDJVYKkTxuPoSXU-X5LqSZIAQek6W6vqZFjkGEy-1GVMVTqZDP2fPB-uYsRipG6x2tcdns9o4x5sedoOVjDwLtmUTNbGRsdZ-3dMPMklfBn-8HqBM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ## Course 2 - Cybersecurity and the Internet of Things
+* Welcome to Cybersecurity and the Internet of Things!
+* IoT and the Industrial Sector
+* IoT and the Connected Home
+* IoT and Consumer Wearables
 
 ## Course 3 - Cybersecurity and the X-Factor
 
