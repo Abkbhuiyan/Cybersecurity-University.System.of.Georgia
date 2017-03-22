@@ -34,6 +34,7 @@ Cybersecurity-University System of Georgia
 
 #### Taught by: 
 #### Dr. Humayun Zafar - Associate Professor of Information Security and Assurance
+#### Dr. Traci Carte - Associate Professor Chair, Information Systems
 
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
