@@ -38,10 +38,10 @@ Cybersecurity-University System of Georgia
   * [Internet of Things in Healthcare : Interoperatibility and Security Issues](https://d3c33hcgiwev3.cloudfront.net/_f61dbab77a36b10fc021d7b88ec15883_Internet_of_Things_Healthcare.pdf?Expires=1490400000&Signature=WI5yuaUlxuVrNTcq1g7egSTA1r44kY~vSuta5UwW~ddLBUp7hyDkShUSnrvBVV4POm4xWb~3ancwIM-c2bla2-FyNQHigqgVHKA4aG~f~1kLj-TQ-7rUd7eYtwKHseuFNM~SSvd~FGR6TbemGkQQ22h9VIHgMXh-RRn5dL7nUiw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
   
 * IoT and the Connected Home
-  * []()
-  * []()
-  * []()
-  * []()
+  * [Smart Community: An Internet of Things Application](https://d3c33hcgiwev3.cloudfront.net/_d0e2afcd415da24939f878b32d4dc25e_iot_smartcommunity.pdf?Expires=1490400000&Signature=UbPhuuE8TsM6ae-kXzUZ1ABlh8-5vHaYW0oOJZ0g3ue~v5bwLlWuBtdl~eJtyEnPj5C14HXX00vMZYEWov8H2~iaHUQElCyVd5dSZLn4aBwCOKJClxhUnPGqPhPUfgP4hwb3hxb48CPnVB-Ceycww~FU2zYZTKIcGxpr~BF3WdQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications](https://d3c33hcgiwev3.cloudfront.net/_f60e669c491b647c3b6fe7dd76554304_Internet-of-Things--A-Survey-on-Enabling-Technologies_-Protocols_-and-Applications.pdf?Expires=1490400000&Signature=JizsZ28Gwm9kl6oZ4BZ1oa2lIvWk-cNJPT8mCzwL3BYTDk8osxNZMq1U2-Zw~koEkQVo8OGOUg7S2kDHGm25Gm3E~3~~NErC8WrQxTPtRCc-Dsza8TE-wYZr1vAjXWM7DYchhurN4g50OdoZSp2tSRrOr3o0SjbbgXu2F-SoSvE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [The Internet of Things: Risks in the Connected Home](https://d3c33hcgiwev3.cloudfront.net/_9c550531d5f7c6b36dfc59738df68ca4_COnnectedHomesecurity.pdf?Expires=1490400000&Signature=KEmRqITbTS6i5RzjnkseD2vrsxtI2IpY8g~2~UyPcdFOox6biqUZEt7aR8FbB5B5L7agEyRS5x6OxXDEOGAkjGcC3WcC4~KuBMfsibrsNX7PDqP9Z2ZviLPceMXg5u8xC~zMAB5Q4ox9My7a5RVS7UCPumqWOVLBc6yiiUBKi-E_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [How IoT is challenging enterprise security](https://blogs.csc.com/2015/11/29/4109/)
   
 * IoT and Consumer Wearables
   * []()
