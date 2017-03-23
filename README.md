@@ -44,10 +44,10 @@ Cybersecurity-University System of Georgia
   * [How IoT is challenging enterprise security](https://blogs.csc.com/2015/11/29/4109/)
   
 * IoT and Consumer Wearables
-  * []()
-  * []()
-  * []()
-  * []()
+  * [Sensor Mania! The Internet of Things, Wearable Computing](https://d3c33hcgiwev3.cloudfront.net/_233e942072d88eacd3a8841e6dfa97f0_iot_sensor_mania.pdf?Expires=1490400000&Signature=Dm8J~L~8HS7fifKTcKROC1r7IlaNJ~EpBBfW26oPCgYmoVJmQeCm2~LyVYzBHfGQPzDpKI0sZh61h9~Ou9qWUbCX4y5KZyLf3sXGIwcy3yYJ2ATVysn5l3kNBkmhfibuBIiI9gsIGXqc1JB9L-3h0EOxugkqQyECH3IXVvDZRa8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [Fashion meets function in smartwatches, fitness trackers and other wearables](http://www.techrepublic.com/article/ces-2106-fashion-meets-function-in-smartwatches-fitness-trackers-and-other-wearables/)
+  * [Wearable technology AND Internet of things](https://d3c33hcgiwev3.cloudfront.net/_242be7725daea8d3112a38a8ca377857_wearable-technology-and-the-internet-of-things-ericsson-consumerlab-2016.pdf?Expires=1490400000&Signature=VE5svmuHzsT3wEImskHic37DuTtjuEy1N6Ov2HM727XgxDB345iVp4J2-tRWbbOwBhZxju8H32uaLxpA9a9lxZU-3bWSLoYnrq~SvM3DJPj8kYLR3~ig0WuGA-iqW8ISl6QI2tzd8E9oeYBKwNb6wlxTOUVRxzAea3KBU9iAfec_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [First Steps Toward Managing Discrimination, Privacy, Security, and Consent ](https://d3c33hcgiwev3.cloudfront.net/_d01db34b8187af12aee2fbd9cabf67f9_iot_regulating.pdf?Expires=1490400000&Signature=U3NpShKNEfLmejBAwj1Qx517Y6Ek0lAk2dAkX0bJlHiZ2eHt30UCadB-Do8ovpYEu-Xhqo0jLbvY0DWRtNZQUQ1sKJPJ2IzlBINp~Qz1xmcRSUlVK3HsY5vS~C3kHVsjHxHJ~ChNU1K578ibR6fKefA4-qqM500JNl9Y4h095po_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ## Course 3 - Cybersecurity and the X-Factor
 
