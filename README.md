@@ -26,6 +26,10 @@ Cybersecurity-University System of Georgia
 
 ## Course 2 - Cybersecurity and the Internet of Things
 * Welcome to Cybersecurity and the Internet of Things!
+  * [What is the Internet of Things?](http://internetofthingsagenda.techtarget.com/definition/Internet-of-Things-IoT)
+  * [Promise for the future? An introduction](https://d3c33hcgiwev3.cloudfront.net/_f9d3fb9c67e68f1242be2ff8c6dd8bab_iot_promise.pdf?Expires=1490400000&Signature=JlIPEteqtA6EdWBLqsCSgmzFtYC2hpiGnD~QraIYjU5k-UGqnqO-0bNlsAWaY1IFa2MgGr3zwhVGFFLQYovYGy9jMnjLPDjBG2Yvp1jL9~dbBcfJMc2L5rOel04Qkc7kekPQ07RWHIkExuKRDzjX5FehoxDtrKuK-cHatR9ve9c_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [New security and privacy challenges](https://d3c33hcgiwev3.cloudfront.net/_7b4077df1f4a711a4cc44378cfc86d9a_iot_securityandprivacy.pdf?Expires=1490400000&Signature=Ry3E9vsS2CIzzdVEdYvzZSPJorISicsrqHf13o2VAHhRWfmvIEt50ywLHkE8rSpZOv~AbUagTbATm4Mdx8BAzq9SJYiYyiifGQWk7EH5IRaMC4hj34iqxnBWlYSLTP7NTgJQOu6u5WuVbn7woecLBKHjmvqYoiNsQV7vxv~BMSI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * 
 * IoT and the Industrial Sector
 * IoT and the Connected Home
 * IoT and Consumer Wearables
