@@ -29,10 +29,25 @@ Cybersecurity-University System of Georgia
   * [What is the Internet of Things?](http://internetofthingsagenda.techtarget.com/definition/Internet-of-Things-IoT)
   * [Promise for the future? An introduction](https://d3c33hcgiwev3.cloudfront.net/_f9d3fb9c67e68f1242be2ff8c6dd8bab_iot_promise.pdf?Expires=1490400000&Signature=JlIPEteqtA6EdWBLqsCSgmzFtYC2hpiGnD~QraIYjU5k-UGqnqO-0bNlsAWaY1IFa2MgGr3zwhVGFFLQYovYGy9jMnjLPDjBG2Yvp1jL9~dbBcfJMc2L5rOel04Qkc7kekPQ07RWHIkExuKRDzjX5FehoxDtrKuK-cHatR9ve9c_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
   * [New security and privacy challenges](https://d3c33hcgiwev3.cloudfront.net/_7b4077df1f4a711a4cc44378cfc86d9a_iot_securityandprivacy.pdf?Expires=1490400000&Signature=Ry3E9vsS2CIzzdVEdYvzZSPJorISicsrqHf13o2VAHhRWfmvIEt50ywLHkE8rSpZOv~AbUagTbATm4Mdx8BAzq9SJYiYyiifGQWk7EH5IRaMC4hj34iqxnBWlYSLTP7NTgJQOu6u5WuVbn7woecLBKHjmvqYoiNsQV7vxv~BMSI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
-  * 
+  
 * IoT and the Industrial Sector
+  * [Internet of Things in Industries: A Survey](https://d3c33hcgiwev3.cloudfront.net/_35b6ad45671c3bf8359a0a1963f370ca_iot_survey.pdf?Expires=1490400000&Signature=ZmBX84ZMmz4aNn141O9YiuUMN5DqyeD3xoAWtD0Sizv4zC8J~TI-nZAAzmaB8pNFSEwf~5So9Lxbum~iK~vK~mVI-UOYEN-rAo0lfQSsSsH6TBUnD3CPIW9x9WQBzxBAa0A6MKGpfLuIKNohEixqCCbpEk-h~36pnd8WFHkcGNo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [The Internet of Things in an Enterprise Context](https://d3c33hcgiwev3.cloudfront.net/_e1490ffc8ae8ec7215b0133b8bfa7a28_iot_enterprise.pdf?Expires=1490400000&Signature=jnAQv1oMDHBNL0~xADausb-L~nh6e7jSoRfWfEL31AW-s9c-JuCwFLcEASzwVo4yAO0R3vTca80Eygi-E~qSmBLkR~myqbtT4R-gFYCl2~JGcvqahyfpi6LPkU055SDJY0Oyhhd7zA6aci9tccupMwXzLJHozycsL-t1Ws2XPig_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [Internet of Things Technology and its Applications in Smart Grid ](https://d3c33hcgiwev3.cloudfront.net/_96b88489f9e44fde0c17bda90a18223c_iot_integrating.pdf?Expires=1490400000&Signature=CNlbq9IL7XQaPa9FIw5yTQS-cB~Pl34IYZ6xWw3QeNpaAUIFUTZ7WeHsXYTrRw6JBYeo7ZAWC~NevCbq4ZTzqu6rss~XHBO6VAVjLZ7optO9yu4QNgcN3Y37OtOlsnCraNGbfZ4ieFO5OUXZrwpdff-sckZyYtPf5SqoUsEwt9w_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [A Survey on Internet of Things: Security and Privacy Issues](https://d3c33hcgiwev3.cloudfront.net/_4938ae396d01762a64ac734dfe3e978a_iot_security_privacy.pdf?Expires=1490400000&Signature=EC8wp38sOsslHKccjVW2vz~33e2A2wscPoJAOzk6D2hvs~gJpXSVktbkPjD1aRZVg5vy3CelFi0JxzylUy7z66~u7Xnj9Oev~mFqszIKFsY-I91-Quv~DNYqmLw9444ZJG19i6qlzH-VNP0nBnb6HXMDye3YXzDv4jpup-lCjwY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [Internet of Things in Healthcare : Interoperatibility and Security Issues](https://d3c33hcgiwev3.cloudfront.net/_f61dbab77a36b10fc021d7b88ec15883_Internet_of_Things_Healthcare.pdf?Expires=1490400000&Signature=WI5yuaUlxuVrNTcq1g7egSTA1r44kY~vSuta5UwW~ddLBUp7hyDkShUSnrvBVV4POm4xWb~3ancwIM-c2bla2-FyNQHigqgVHKA4aG~f~1kLj-TQ-7rUd7eYtwKHseuFNM~SSvd~FGR6TbemGkQQ22h9VIHgMXh-RRn5dL7nUiw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  
 * IoT and the Connected Home
+  * []()
+  * []()
+  * []()
+  * []()
+  
 * IoT and Consumer Wearables
+  * []()
+  * []()
+  * []()
+  * []()
 
 ## Course 3 - Cybersecurity and the X-Factor
 
