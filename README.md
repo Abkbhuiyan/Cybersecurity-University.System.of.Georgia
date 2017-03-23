@@ -35,6 +35,9 @@ Cybersecurity-University System of Georgia
 #### Taught by: 
 #### Dr. Humayun Zafar - Associate Professor of Information Security and Assurance
 #### Dr. Traci Carte - Associate Professor Chair, Information Systems
+#### Mr. Andy Green -  Lecturer of Information Security and Assurance
+#### Herbert J. Mattord, Ph.D., CISM, CISSP, CDP - Associate Professor in Information Security and Assurance
+#### Michael Whitman, Ph.D., CISM, CISSP - Professor of Information Security
 
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
