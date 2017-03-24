@@ -1,4 +1,4 @@
-# Cybersecurity-University.System.of.Georgia
+# Cybersecurity-University.System.of.Georgia :white_check_mark:
 Cybersecurity-University System of Georgia
 
 ## Course 1 - Cybersecurity and Mobility
@@ -68,6 +68,11 @@ Cybersecurity-University System of Georgia
   * [Global Threat Report](https://d3c33hcgiwev3.cloudfront.net/_4b6a2d48f2760e1afc95b14ead6c13d9_forcepoint_2016_global_threat_report_en.pdf?Expires=1490486400&Signature=JjWNaMwFAs0fYRlj74kPeEZSPclqeaq4Qq-DGGjFqQ3LD55inF~RQUForKEGvWvdKq-sKeLD4w0--6R04jENXQH13jzqSJcCWeaGXXQOK6-qTJH7ZbOGCTt8d7SO-O0sM92V-qZJsCrRXqwxvHpPM4zJN~uFkkARt8DFXQLB9dY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 * Threat Intelligence
+  * [What is threat intelligence?](https://d3c33hcgiwev3.cloudfront.net/_1a5041a430ddae609d96d993958502f7_What-is-threat-intelligence.pdf?Expires=1490486400&Signature=Akn2yMB5H-C6w1qvMAnlJDZoTbt1z-oL3hI-HIHwgjKKpWJyjUdx6yBDw~PWFrBgbLcbLZWasUVui0ZriDi9eVkRd1PCZyTxc~8KUc7YmuVzFTrGGoCxReUWZRHbBiZDw6YI7vaExHCT2SbQORFnrTIi6t1V2S4F5HhU~jiVgnw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [The Rise of Hacktivism](http://journal.georgetown.edu/the-rise-of-hacktivism/)
+  * [An introduction to cyber liability insurance cover](http://www.computerweekly.com/news/2240202703/An-introduction-to-cyber-liability-insurance-cover)
+  * [How to stay protected against ransomware](https://d3c33hcgiwev3.cloudfront.net/_14cd59ec859fde6a01ccac28549a72db_sophos-ransomeware.pdf?Expires=1490486400&Signature=ad5MJk7H2PNVLNYi~Wj8KBATnAd6bTF6sBCHK7lCBTJVi0J6QpSpBYpcxmA9o44HIZtQNX6RE8rpHHAF-ehXgrORnDBMsr2mZAHZ~-VkPhB-Ehi6LlrSte6jDba1GeWJ0BA4ihg3CFf~5vmHnflGrrhUSL8K98~38I4ffiVYahY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [BBC - Three US hospitals hit by ransomware](http://www.bbc.co.uk/news/technology-35880610)
 
 #### Taught by: 
 #### Dr. Humayun Zafar - Associate Professor of Information Security and Assurance
