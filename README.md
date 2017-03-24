@@ -50,6 +50,10 @@ Cybersecurity-University System of Georgia
   * [First Steps Toward Managing Discrimination, Privacy, Security, and Consent ](https://d3c33hcgiwev3.cloudfront.net/_d01db34b8187af12aee2fbd9cabf67f9_iot_regulating.pdf?Expires=1490400000&Signature=U3NpShKNEfLmejBAwj1Qx517Y6Ek0lAk2dAkX0bJlHiZ2eHt30UCadB-Do8ovpYEu-Xhqo0jLbvY0DWRtNZQUQ1sKJPJ2IzlBINp~Qz1xmcRSUlVK3HsY5vS~C3kHVsjHxHJ~ChNU1K578ibR6fKefA4-qqM500JNl9Y4h095po_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ## Course 3 - Cybersecurity and the X-Factor
+* Introduction to the X-Factor
+* Security Education: Training & Awareness
+* Reasons Why Traditional Training Efforts Fail
+* Threat Intelligence
 
 #### Taught by: 
 #### Dr. Humayun Zafar - Associate Professor of Information Security and Assurance
