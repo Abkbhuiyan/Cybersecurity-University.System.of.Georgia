@@ -51,6 +51,11 @@ Cybersecurity-University System of Georgia
 
 ## Course 3 - Cybersecurity and the X-Factor
 * Introduction to the X-Factor
+  * [Executive Summary](https://d3c33hcgiwev3.cloudfront.net/_7f6fca8290d71bd05afcf73a31b7fc47_ISM-executive-summary.pdf?Expires=1490486400&Signature=GgQGAA0i1~c0UNb8RXXGwU7oAZl7CUp2jXEI9cFh~0~~IV1fdrXs~ymXGU62Gu~6BlvfOcHXiTfWhZrsbG7j1wDHCzeSuMkwyGeDEnDvTKSM0GNHQgvrqYUUFiJu6Chp0ZFHlZUfWRGweFzKlf2Pw-UwLeV6tJalFlzRcA8eIMM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [Phishing Attacks Hurt Convenience Of Online Banking In The Workplace](http://www.informationsecuritybuzz.com/articles/phishing-attacks-hurt-convenience-online-banking-workplace/)
+  * [3 things every CISO should know](http://www.information-age.com/3-things-every-ciso-should-know-123461649/)
+  * [Shadow IT: Mitigating Security Risks](http://www.csoonline.com/article/3083775/security/shadow-it-mitigating-security-risks.html)
+
 * Security Education: Training & Awareness
 * Reasons Why Traditional Training Efforts Fail
 * Threat Intelligence
