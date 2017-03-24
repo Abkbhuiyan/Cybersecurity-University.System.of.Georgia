@@ -57,6 +57,10 @@ Cybersecurity-University System of Georgia
   * [Shadow IT: Mitigating Security Risks](http://www.csoonline.com/article/3083775/security/shadow-it-mitigating-security-risks.html)
 
 * Security Education: Training & Awareness
+  * [Implementing Security Education, Training, and Awareness Programs](https://d3c33hcgiwev3.cloudfront.net/_1a4f91d2b9e9e975bd38bbaf546ba0df_SETA.pdf?Expires=1490486400&Signature=ZEUoIGWEQ42vowl2utGT4YMnn5tlVTzc1bLNXAKhI6GzXDVXZEKGgi6Ber5U0O2Qkz3aH5kmNKFOv9DYRYB0dM3Tx6oqkDn8WnIbqdLDqpkhbGEA94WNNJ8KY3f6fehSwPTsv56b~hQaM6cstd-Yu6liUK8toepnhFSsjyEjJWc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [Offline Education Versus Training?](https://d3c33hcgiwev3.cloudfront.net/_543c70f0495aa313efefbfe8b392faab_Training2.pdf?Expires=1490486400&Signature=EguxcI8Hyg7R6pav5Mib5vW4j0ZBJLJIzMC0AnUnMWSos8N-vflt0V3uO0H49OHTbqFj2HKbL-gNGtb8GQQPI11zxdor3FaZakDqJFCc75cnXXfA9wRJBLM8q9RlSSyFxEHMT1JVl8QFouAnrFPbxDqKllqtbfm5VumiyjnB-mo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [Making security awareness training work](https://d3c33hcgiwev3.cloudfront.net/_afdab63e4dc22ac996a13054e939f092_Making-security-awareness-work.pdf?Expires=1490486400&Signature=Hwm6zWtxmQLruxpqMhEutXfexiwcKB-MnlLpNMIUa5Ny11YwWO2nih~zMYSC7t-ccm-St00C~KU0KTfFlMfBPSeE9wge1vKQYXiOynUkyiUr7eNF16LPl42BOodlRo2h9nxwKESG0Q0zDT-MW3eWGr5Wd65zdLIW-oB6jpES~h8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
 * Reasons Why Traditional Training Efforts Fail
 * Threat Intelligence
 
