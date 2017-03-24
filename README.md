@@ -81,7 +81,7 @@ Cybersecurity-University System of Georgia
 #### Herbert J. Mattord, Ph.D., CISM, CISSP, CDP - Associate Professor in Information Security and Assurance
 #### Michael Whitman, Ph.D., CISM, CISSP - Professor of Information Security
 
-### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
-### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
+### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
+### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon::new_moon:
 
 ### Created By Bilal Cagiran | [E-Mail](mailto:bcagiran@hotmail.com) | [Github](https://github.com/extwiii/) | [LinkedIn](https://linkedin.com/in/bilalcagiran) | [CodePen](http://codepen.io/extwiii/) | [Blog/Site](http://bilalcagiran.com) | [FreeCodeCamp](https://www.freecodecamp.com/extwiii) 
