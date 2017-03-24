@@ -62,6 +62,11 @@ Cybersecurity-University System of Georgia
   * [Making security awareness training work](https://d3c33hcgiwev3.cloudfront.net/_afdab63e4dc22ac996a13054e939f092_Making-security-awareness-work.pdf?Expires=1490486400&Signature=Hwm6zWtxmQLruxpqMhEutXfexiwcKB-MnlLpNMIUa5Ny11YwWO2nih~zMYSC7t-ccm-St00C~KU0KTfFlMfBPSeE9wge1vKQYXiOynUkyiUr7eNF16LPl42BOodlRo2h9nxwKESG0Q0zDT-MW3eWGr5Wd65zdLIW-oB6jpES~h8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 * Reasons Why Traditional Training Efforts Fail
+  * [Why do they fail to change behaviour?](https://d3c33hcgiwev3.cloudfront.net/_9d35b37eea9f468bbd12038178aeb904_Awareness-Campaigns.pdf?Expires=1490486400&Signature=hTvOWz7W9MN6R03uG25~JgZ9BNCuVLFoTK4~dQZtyrhHJAIkUCYotdxbSA74yaU5vvgZj0ATyW49uCLSDOkwr1X7~4m3A8pqEuwuXR9vnTlshCJWgY0qxccmkZHXChnKUvE~rN0SGNC3prZNTMyqzTSGFBrgar5EC45UQjmtiSg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [The Impact Of Past Behaviour](https://d3c33hcgiwev3.cloudfront.net/_64aced5aa2159abd90a64591706fe1f8_TPB-Habit-reading.pdf?Expires=1490486400&Signature=NC9FB~ULTkqNzblE-vJBIUMFx2tX3RjBbqx6~y~3pL4mrDQv356v1IEeYV1Aac1PX87O70~SkuKZVHVFI0sqFQYwoPNewWio6USGbaOXT9KUvQazMAZviYK3ezKv3ySEmfIcQgYWdM~8Q2kzM0Eq-MsOWMnUx1oL6plnKBFd1dE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [How a Behavior Becomes Habitual?](https://d3c33hcgiwev3.cloudfront.net/_0fff97d0ceb00b10ba8713c630d7aad0_Implementation-Intentions-Reading.pdf?Expires=1490486400&Signature=YfAk84YVltQ1Ns8PzpozY5aGPPhDLeIbbmXCPhV6MHano3YWLOzoFbaFoCMSJAzY~79MyEQ6RZHwJGxUHGxBvArwJfr4aecQroFRTq~zcUQcFTv0~VAPqovsNKkh-U5-5fy27LLHBIkEzwXSOW5JH3MBtv~F1NRsKqdoXn3ax6c_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+  * [Global Threat Report](https://d3c33hcgiwev3.cloudfront.net/_4b6a2d48f2760e1afc95b14ead6c13d9_forcepoint_2016_global_threat_report_en.pdf?Expires=1490486400&Signature=JjWNaMwFAs0fYRlj74kPeEZSPclqeaq4Qq-DGGjFqQ3LD55inF~RQUForKEGvWvdKq-sKeLD4w0--6R04jENXQH13jzqSJcCWeaGXXQOK6-qTJH7ZbOGCTt8d7SO-O0sM92V-qZJsCrRXqwxvHpPM4zJN~uFkkARt8DFXQLB9dY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
 * Threat Intelligence
 
 #### Taught by: 
